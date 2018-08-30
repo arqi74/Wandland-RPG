@@ -1,0 +1,19 @@
+{
+  "name": "wandland-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arqi74/Wandland-RPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arqi74/wandland-RPG/issues"
+  },
+  "homepage": "https://github.com/arqi74/wandland-rpg#readme"
+}
